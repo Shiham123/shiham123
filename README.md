@@ -1,3 +1,12 @@
+# 💫 About Me:
+ 🔭 I’m currently working on web Development
+
+🌱 I’m currently learning **Next.js, Redux , mongoose**
+
+💬 Ask me about **javascript, react,express.js,MongoDB**
+
+📫 How to reach me **shahisrail134@gmail.com**
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/fairoz.rahaman.1) 
 
